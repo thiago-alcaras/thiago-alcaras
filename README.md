@@ -1,6 +1,6 @@
 <img src="assets/ficha.svg" width="100%" alt="Ficha de personagem: Thiago Alcaras, classe Dev Full Stack, guilda PicPay, base Ribeirão Preto"/>
 
-> **Lore.** Comecei pelo front-end, atravessando o reino dos frameworks (Angular, React, Vue, Ionic, Flutter). Desci a pilha até APIs, bancos e nuvem. Hoje trabalho no PicPay e, nas horas vagas, treino as artes da IA: agentes, MCP, RAG e avaliação de prompts. Também construo jogos e vídeos animados em código, porque é jogando que se aprende.
+> **Lore.** Comecei pelo front-end, atravessando o reino dos frameworks (Angular, React, Vue, Ionic, Flutter). Desci a pilha até APIs, bancos e nuvem. Hoje trabalho no PicPay e, nas horas vagas, treino as artes da IA: agentes, MCP, RAG e avaliação de prompts. Também construo jogos, porque é jogando que se aprende.
 
 <img src="assets/atributos.svg" width="100%" alt="Atributos"/>
 
@@ -24,7 +24,6 @@
 | ✅ | [**promptlab**](https://promptlab-bice.vercel.app) | Laboratório para testar e comparar prompts, no ar na Vercel. |
 | ⚔️ | **Vizin** <sub>🔒 privada</sub> | Rede social de bairro: feed, mapa, avisos, eventos e moderação. Web (PWA) e app Android/iOS com React, Node, Supabase e Expo. |
 | ⚔️ | **Diviners** <sub>🔒 privada</sub> | Metroidvania de plataforma em HTML5 Canvas, sem nenhuma dependência. |
-| ⚔️ | **Rota Incerta** <sub>🔒 privada</sub> | Minisséries de mistério em vídeo vertical, animadas em código. O público vota e decide o próximo episódio. |
 
 ## 🏆 Conquistas
 
